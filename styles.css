@@ -68,6 +68,11 @@ nav ul li a:hover {
     height: auto;
     margin: 20px 0;
 }
+.family-photo {
+    max-width: 100%;
+    height: auto;
+    margin: 20px 0;
+}
 .custom-prints-article {
     max-width: 800px;
     width: 90%;
