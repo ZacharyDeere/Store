@@ -80,3 +80,10 @@ nav ul li a:hover {
     padding: 20px;
     text-align: left;
 }
+.about-me-article {
+    max-width: 800px;
+    width: 90%;
+    margin: 0 auto;
+    padding: 20px;
+    text-align: left;
+}
