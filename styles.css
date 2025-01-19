@@ -123,6 +123,9 @@ nav ul li a:hover {
 .custom-prints-article h2, .about-me-article h2 {
     text-align: center;
     margin-bottom: 1.5rem;
+    padding-bottom: 0.5rem;
+    border-bottom: 2px solid white;
+    width: 100%;
 }
 
 .about-me-article {
