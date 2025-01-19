@@ -111,6 +111,15 @@ nav ul li a:hover {
     color: white;
 }
 
+.custom-prints-article a {
+    color: white;
+    text-decoration: underline;
+}
+
+.custom-prints-article a:hover {
+    text-decoration: none;
+}
+
 .about-me-article {
     max-width: 800px;
     width: 90%;
