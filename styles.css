@@ -120,6 +120,11 @@ nav ul li a:hover {
     text-decoration: none;
 }
 
+.custom-prints-article h2, .about-me-article h2 {
+    text-align: center;
+    margin-bottom: 1.5rem;
+}
+
 .about-me-article {
     max-width: 800px;
     width: 90%;
