@@ -74,11 +74,6 @@ nav ul li a:hover {
     align-items: center;
     padding: 20px;
     width: 100%;
-    background-color: #770a0ae7;
-    border: 2px solid #333;
-    border-radius: 8px;
-    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
-    color: white;
 }
 
 .featured-image-custom-prints {
@@ -109,6 +104,11 @@ nav ul li a:hover {
     margin: 0 auto;
     padding: 20px;
     text-align: left;
+    background-color: #770a0ae7;
+    border: 2px solid #333;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    color: white;
 }
 
 .about-me-article {
